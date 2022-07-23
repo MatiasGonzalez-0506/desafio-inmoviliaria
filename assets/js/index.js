@@ -49,3 +49,7 @@ const propiedadesJSON = [
     }
   ];
   
+let buscar = document.getElementById("buscar")
+buscar.addEventListener("click",() => {
+  
+})
